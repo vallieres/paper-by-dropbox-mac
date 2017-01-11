@@ -1,5 +1,5 @@
 # Paper by Dropbox, as a Mac Application
-Paper, the service by Dropbox bundled as a simple Mac binary for ease of use in your dock as a standalone application and not simply a tab in your browser.
+[Paper](https://paper.dropbox.com), the service by Dropbox, bundled as a simple Mac binary for ease of use in your dock, as a standalone application and not simply just a tab in your browser.
 
 ![Screenshot](/screenshot.png)
 
